@@ -1,0 +1,41 @@
+button{
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+}
+#taille{
+   display: flex;
+   justify-content: center;
+   background-color: bisque;
+}
+#taille section{
+    width: 30%;
+    
+}
+section{
+
+   
+}
+#shadow{
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
+#shadow div{
+    width: 30%;
+}
+#border {
+    padding-top: 25px;
+    display: flex;
+  justify-content: space-around;
+  background-color: blueviolet;
+}
+#border section {
+    width: 20%;
+}
+
+.nom{
+    padding-top: 25px;
+    width: 25%;
+    text-align: center;
+}
